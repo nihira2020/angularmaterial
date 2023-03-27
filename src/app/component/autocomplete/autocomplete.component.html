@@ -1,0 +1,12 @@
+<h3>Auto Complete</h3>
+
+<form class="example-form">
+    <mat-form-field class="example-full-width">
+        <input matInput [matAutocomplete]="auto" [formControl]="formcontrol" />
+        <mat-autocomplete autoActiveFirstOption #auto>
+            <mat-option *ngFor="let item of filteroptionslist | async" [value]="item.code">{{item.code}} | {{item.name}}</mat-option>
+            
+        </mat-autocomplete>
+    </mat-form-field>
+   
+</form>
