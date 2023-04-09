@@ -35,7 +35,7 @@
     <button routerLink="input" mat-button>Input</button>
     <button routerLink="autocomplete" mat-button>Autocomplete</button>
     <button mat-raised-button color="accent">Sign Up</button>
-    <button  mat-icon-button>
-        <mat-icon>notifications</mat-icon>
+    <button (click)="badgevisibility()"  mat-icon-button>
+        <mat-icon matBadgeColor="accent" matBadge="15" [matBadgeHidden]="badgevisible" matBadgeSize="small">notifications</mat-icon>
     </button>
 </mat-toolbar>
