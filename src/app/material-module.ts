@@ -10,6 +10,7 @@ import {MatBadgeModule} from "@angular/material/badge"
 import {MatSidenavModule} from "@angular/material/sidenav"
 import {MatListModule} from "@angular/material/list"
 import {MatCardModule} from "@angular/material/card"
+import {MatSliderModule} from "@angular/material/slider"
 
 @NgModule({
 exports:[
@@ -23,7 +24,8 @@ exports:[
     MatBadgeModule,
     MatSidenavModule,
     MatListModule,
-    MatCardModule
+    MatCardModule,
+    MatSliderModule
 ]
 })
 export class MaterialModule{}

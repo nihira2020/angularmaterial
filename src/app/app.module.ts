@@ -7,10 +7,11 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { InputComponent } from './input/input.component';
 import { MaterialModule } from './material-module';
 import { AutocompleteComponent } from './component/autocomplete/autocomplete.component';
-import { ReactiveFormsModule } from '@angular/forms';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { MenubarComponent } from './component/menubar/menubar.component';
 import { HomeComponent } from './component/home/home.component';
 import { CardComponent } from './component/card/card.component';
+import { SliderComponent } from './component/slider/slider.component';
 
 @NgModule({
   declarations: [
@@ -19,14 +20,16 @@ import { CardComponent } from './component/card/card.component';
     AutocompleteComponent,
     MenubarComponent,
     HomeComponent,
-    CardComponent
+    CardComponent,
+    SliderComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
     MaterialModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
