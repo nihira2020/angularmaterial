@@ -1,0 +1,79 @@
+{
+  "customer": [
+    {
+      "code": 1,
+      "name": "Janesh",
+      "phone": "8989787867",
+      "email":"janesh@in.com",
+      "status":"Active"
+    },
+    {
+      "code": 2,
+      "name": "Bishoi",
+      "phone": "8989787867",
+      "email":"bishoi@in.com",
+      "status":"In Active"
+    },
+    {
+      "code": 3,
+      "name": "surya",
+      "phone": "8989787867",
+      "email":"surya@in.com",
+      "status":"In Active"
+    },
+    {
+      "code": 4,
+      "name": "kamlesh",
+      "phone": "8989787867",
+      "email":"kamlesh@in.com",
+      "status":"IN Active"
+    },
+    {
+      "code": 5,
+      "name": "Kriti shetty",
+      "phone": "8989787867",
+      "email":"kriti@in.com",
+      "status":"Active"
+    },
+    {
+      "code": 6,
+      "name": "Tammanah",
+      "phone": "8989787867",
+      "email":"tam@in.com"
+    },
+    {
+      "code": 7,
+      "name": "Priyanka Mohan",
+      "phone": "8989787867",
+      "email":"priya@in.com",
+      "status":"Active"
+    },
+    {
+      "code": 8,
+      "name": "rashmika",
+      "phone": "8989787867",
+      "email":"rashmika@in.com",
+      "status":"Active"
+    },
+    {
+      "code": 9,
+      "name": "Trisha",
+      "phone": "8989787867",
+      "email":"trisha@in.com",
+      "status":"Active"
+    },
+    {
+      "code": 10,
+      "name": "samanta",
+      "phone": "8989787867",
+      "email":"samantha@in.com",
+      "status":"Active"
+    }, {
+      "code": 11,
+      "name": "ananthi",
+      "phone": "8989787867",
+      "email":"ananthi@in.com",
+      "status":"Active"
+    }
+  ]
+}

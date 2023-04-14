@@ -12,6 +12,8 @@ import { MenubarComponent } from './component/menubar/menubar.component';
 import { HomeComponent } from './component/home/home.component';
 import { CardComponent } from './component/card/card.component';
 import { SliderComponent } from './component/slider/slider.component';
+import { TableComponent } from './component/table/table.component';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -21,7 +23,8 @@ import { SliderComponent } from './component/slider/slider.component';
     MenubarComponent,
     HomeComponent,
     CardComponent,
-    SliderComponent
+    SliderComponent,
+    TableComponent
   ],
   imports: [
     BrowserModule,
@@ -29,7 +32,8 @@ import { SliderComponent } from './component/slider/slider.component';
     BrowserAnimationsModule,
     MaterialModule,
     ReactiveFormsModule,
-    FormsModule
+    FormsModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
