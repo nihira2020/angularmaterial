@@ -34,7 +34,7 @@
 
     <button routerLink="input" mat-button>Input</button>
     <button routerLink="autocomplete" mat-button>Autocomplete</button>
-    <button mat-raised-button color="accent">Sign Up</button>
+    <a href="https://www.youtube.com/channel/UCsbmVmB_or8sVLLEq4XhE_A/join" mat-raised-button color="accent">Join Us</a>
     <button (click)="badgevisibility()"  mat-icon-button>
         <mat-icon matBadgeColor="accent" matBadge="15" [matBadgeHidden]="badgevisible" matBadgeSize="small">notifications</mat-icon>
     </button>
@@ -46,7 +46,10 @@
             <button routerLink="card" mat-button><mat-icon>dashboard</mat-icon> Dashboard</button>
         </mat-list-item>
         <mat-list-item>
-            <button mat-button><mat-icon>home</mat-icon> Home</button>
+            <button routerLink="" mat-button><mat-icon>home</mat-icon> Home</button>
+        </mat-list-item>
+        <mat-list-item>
+            <button routerLink="slider" mat-button><mat-icon>explore</mat-icon> Slider</button>
         </mat-list-item>
         <mat-list-item>
             <button mat-button><mat-icon>settings</mat-icon> Settings</button>
