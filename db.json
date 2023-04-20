@@ -1,79 +1,206 @@
 {
   "customer": [
     {
-      "code": 1,
+      "id": 1,
       "name": "Janesh",
       "phone": "8989787867",
-      "email":"janesh@in.com",
-      "status":"Active"
+      "email": "janesh@in.com",
+      "status": "Active"
     },
     {
-      "code": 2,
+      "id": 2,
       "name": "Bishoi",
       "phone": "8989787867",
-      "email":"bishoi@in.com",
-      "status":"In Active"
+      "email": "bishoi@in.com",
+      "status": "In Active"
     },
     {
-      "code": 3,
+      "id": 3,
       "name": "surya",
       "phone": "8989787867",
-      "email":"surya@in.com",
-      "status":"In Active"
+      "email": "surya@in.com",
+      "status": "In Active"
     },
     {
-      "code": 4,
+      "id": 4,
       "name": "kamlesh",
       "phone": "8989787867",
-      "email":"kamlesh@in.com",
-      "status":"IN Active"
+      "email": "kamlesh@in.com",
+      "status": "IN Active"
     },
     {
-      "code": 5,
+      "id": 5,
       "name": "Kriti shetty",
       "phone": "8989787867",
-      "email":"kriti@in.com",
-      "status":"Active"
+      "email": "kriti@in.com",
+      "status": "Active"
     },
     {
-      "code": 6,
+      "id": 6,
       "name": "Tammanah",
       "phone": "8989787867",
-      "email":"tam@in.com"
+      "email": "tam@in.com"
     },
     {
-      "code": 7,
+      "id": 7,
       "name": "Priyanka Mohan",
       "phone": "8989787867",
-      "email":"priya@in.com",
-      "status":"Active"
+      "email": "priya@in.com",
+      "status": "Active"
     },
     {
-      "code": 8,
+      "id": 8,
       "name": "rashmika",
       "phone": "8989787867",
-      "email":"rashmika@in.com",
-      "status":"Active"
+      "email": "rashmika@in.com",
+      "status": "Active"
     },
     {
-      "code": 9,
+      "id": 9,
       "name": "Trisha",
       "phone": "8989787867",
-      "email":"trisha@in.com",
-      "status":"Active"
+      "email": "trisha@in.com",
+      "status": "Active"
     },
     {
-      "code": 10,
+      "id": 10,
       "name": "samanta",
       "phone": "8989787867",
-      "email":"samantha@in.com",
-      "status":"Active"
-    }, {
-      "code": 11,
+      "email": "samantha@in.com",
+      "status": "Active"
+    },
+    {
+      "id": 11,
       "name": "ananthi",
       "phone": "8989787867",
-      "email":"ananthi@in.com",
-      "status":"Active"
+      "email": "ananthi@in.com",
+      "status": "Active"
+    },
+    {
+      "name": "Ravi Kumar",
+      "email": "rn@in.com",
+      "phone": "7899000",
+      "status": true,
+      "id": 12
+    },
+    {
+      "name": "User",
+      "email": "user@in.com",
+      "phone": "777",
+      "status": true,
+      "id": 13
+    },
+    {
+      "name": "Janesh",
+      "email": "janesh@in.com",
+      "phone": "8989787867",
+      "status": "Active",
+      "id": 14
+    },
+    {
+      "name": "kamlesh",
+      "email": "kamlesh@in.com",
+      "phone": "8989787867",
+      "status": "IN Active",
+      "id": 15
+    },
+    {
+      "name": "kamlesh",
+      "email": "kamlesh@in.com",
+      "phone": "8989787867",
+      "status": "IN Active",
+      "id": 16
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "status": true,
+      "id": 17
+    },
+    {
+      "name": "kamlesh",
+      "email": "kamlesh@in.com",
+      "phone": "8989787867",
+      "status": "IN Active",
+      "id": 18
+    },
+    {
+      "name": "Janesh",
+      "email": "janesh@in.com",
+      "phone": "8989787867",
+      "status": "Active",
+      "id": 19
+    },
+    {
+      "name": "Janesh",
+      "email": "janesh@in.com",
+      "phone": "8989787867",
+      "status": "Active",
+      "id": 20
+    },
+    {
+      "name": "Trisha",
+      "email": "trisha@in.com",
+      "phone": "8989787867",
+      "status": "Active",
+      "id": 21
+    },
+    {
+      "name": "Priyanka Mohan",
+      "email": "priya@in.com",
+      "phone": "8989787867",
+      "status": "Active",
+      "id": 22
+    },
+    {
+      "name": "kamlesh",
+      "email": "kamlesh@in.com",
+      "phone": "8989787867",
+      "status": "IN Active",
+      "id": 23
+    },
+    {
+      "name": "Janesh",
+      "email": "janesh@in.com",
+      "phone": "8989787867",
+      "status": "Active",
+      "id": 24
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "status": true,
+      "id": 25
+    },
+    {
+      "name": "Janesh",
+      "email": "janesh@in.com",
+      "phone": "8989787867",
+      "status": "Active",
+      "id": 26
+    },
+    {
+      "name": "Janesh",
+      "email": "janesh@in.com",
+      "phone": "8989787867",
+      "status": "Active",
+      "id": 27
+    },
+    {
+      "name": "Kriti shetty",
+      "email": "kriti@in.com",
+      "phone": "8989787867",
+      "status": "Active",
+      "id": 28
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "status": true,
+      "id": 29
     }
   ]
 }
