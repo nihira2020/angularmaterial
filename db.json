@@ -110,111 +110,63 @@
       "phone": "8989787867",
       "status": "IN Active",
       "id": 16
+    }
+  ],
+  "associate": [
+    {
+      "id": 1,
+      "name": "Ravi",
+      "address": [
+        {
+          "title": "Address1",
+          "country": "India",
+          "fulladdress": "1st street,new nager,\nchennai"
+        }
+      ]
     },
     {
-      "name": "",
-      "email": "",
-      "phone": "",
-      "status": true,
-      "id": 17
+      "id": 2,
+      "name": "Kumar",
+      "address": [
+        {
+          "title": "kUmar address1",
+          "country": "Australia",
+          "fulladdress": "Address 1"
+        },
+        {
+          "title": "2",
+          "country": "England",
+          "fulladdress": "Add 2"
+        },
+        {
+          "title": "3",
+          "country": "England",
+          "fulladdress": ""
+        }
+      ]
     },
     {
-      "name": "kamlesh",
-      "email": "kamlesh@in.com",
-      "phone": "8989787867",
-      "status": "IN Active",
-      "id": 18
+      "id": 3,
+      "name": "Akash",
+      "address": []
+    }
+  ],
+  "country": [
+    {
+      "code": "India",
+      "name": "India"
     },
     {
-      "name": "Janesh",
-      "email": "janesh@in.com",
-      "phone": "8989787867",
-      "status": "Active",
-      "id": 19
+      "code": "Australia",
+      "name": "Australia"
     },
     {
-      "name": "Janesh",
-      "email": "janesh@in.com",
-      "phone": "8989787867",
-      "status": "Active",
-      "id": 20
+      "code": "SouthAfrica",
+      "name": "SouthAfrica"
     },
     {
-      "name": "Trisha",
-      "email": "trisha@in.com",
-      "phone": "8989787867",
-      "status": "Active",
-      "id": 21
-    },
-    {
-      "name": "Priyanka Mohan",
-      "email": "priya@in.com",
-      "phone": "8989787867",
-      "status": "Active",
-      "id": 22
-    },
-    {
-      "name": "kamlesh",
-      "email": "kamlesh@in.com",
-      "phone": "8989787867",
-      "status": "IN Active",
-      "id": 23
-    },
-    {
-      "name": "Janesh",
-      "email": "janesh@in.com",
-      "phone": "8989787867",
-      "status": "Active",
-      "id": 24
-    },
-    {
-      "name": "",
-      "email": "",
-      "phone": "",
-      "status": true,
-      "id": 25
-    },
-    {
-      "name": "Janesh",
-      "email": "janesh@in.com",
-      "phone": "8989787867",
-      "status": "Active",
-      "id": 26
-    },
-    {
-      "name": "Janesh",
-      "email": "janesh@in.com",
-      "phone": "8989787867",
-      "status": "Active",
-      "id": 27
-    },
-    {
-      "name": "Kriti shetty",
-      "email": "kriti@in.com",
-      "phone": "8989787867",
-      "status": "Active",
-      "id": 28
-    },
-    {
-      "name": "",
-      "email": "",
-      "phone": "",
-      "status": true,
-      "id": 29
-    },
-    {
-      "name": "Bishoi",
-      "email": "bishoi@in.com",
-      "phone": "8989787867",
-      "status": "In Active",
-      "id": 30
-    },
-    {
-      "name": "Test",
-      "email": "",
-      "phone": "",
-      "status": true,
-      "id": 31
+      "code": "England",
+      "name": "England"
     }
   ]
 }

@@ -5,3 +5,8 @@ export interface Customer {
     phone: string;
     active: string
 }
+
+export interface Country{
+    code:string,
+    name:string
+}
