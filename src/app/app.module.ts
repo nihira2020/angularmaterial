@@ -17,6 +17,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { FormdesignComponent } from './component/formdesign/formdesign.component';
 import { PopupComponent } from './component/popup/popup.component';
 import { AssociateComponent } from './component/associate/associate.component';
+import { UserdetailComponent } from './component/userdetail/userdetail.component';
 
 @NgModule({
   declarations: [
@@ -30,7 +31,8 @@ import { AssociateComponent } from './component/associate/associate.component';
     TableComponent,
     FormdesignComponent,
     PopupComponent,
-    AssociateComponent
+    AssociateComponent,
+    UserdetailComponent
   ],
   imports: [
     BrowserModule,
